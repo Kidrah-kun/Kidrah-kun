@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kidrah-kun
+- 👋 Hi, I’m Hardik Hathwal
 - 👀 I’m interested in coding and competitive programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
